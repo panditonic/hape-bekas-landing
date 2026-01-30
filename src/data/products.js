@@ -105,7 +105,7 @@ export const products = [
     storage: "128GB",
     ram: "4GB",
     battery: "85%",
-    image: "https://images.unsplash.com/photo-1592286927505-b0501d6d0821?w=500&q=80",
+    image: "https://images.unsplash.com/photo-1610945264803-c22b62d2a7b3?w=500&q=80",
     description: "iPhone SE generasi terbaru, compact dan powerful",
     stock: 4,
     warranty: "2 Minggu",
